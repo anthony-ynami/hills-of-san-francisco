@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.10faef7c.chunk.css",
-    "main.js": "/static/js/main.0cdda14b.chunk.js",
-    "main.js.map": "/static/js/main.0cdda14b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3b0c13bb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3b0c13bb.js.map",
-    "static/js/2.5b2428e6.chunk.js": "/static/js/2.5b2428e6.chunk.js",
-    "static/js/2.5b2428e6.chunk.js.map": "/static/js/2.5b2428e6.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.10faef7c.chunk.css.map": "/static/css/main.10faef7c.chunk.css.map",
-    "static/js/2.5b2428e6.chunk.js.LICENSE.txt": "/static/js/2.5b2428e6.chunk.js.LICENSE.txt"
+    "main.css": "/hills-of-san-francisco/static/css/main.10faef7c.chunk.css",
+    "main.js": "/hills-of-san-francisco/static/js/main.6cd3723e.chunk.js",
+    "main.js.map": "/hills-of-san-francisco/static/js/main.6cd3723e.chunk.js.map",
+    "runtime-main.js": "/hills-of-san-francisco/static/js/runtime-main.6c7d74fc.js",
+    "runtime-main.js.map": "/hills-of-san-francisco/static/js/runtime-main.6c7d74fc.js.map",
+    "static/js/2.45ef627c.chunk.js": "/hills-of-san-francisco/static/js/2.45ef627c.chunk.js",
+    "static/js/2.45ef627c.chunk.js.map": "/hills-of-san-francisco/static/js/2.45ef627c.chunk.js.map",
+    "index.html": "/hills-of-san-francisco/index.html",
+    "static/css/main.10faef7c.chunk.css.map": "/hills-of-san-francisco/static/css/main.10faef7c.chunk.css.map",
+    "static/js/2.45ef627c.chunk.js.LICENSE.txt": "/hills-of-san-francisco/static/js/2.45ef627c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b0c13bb.js",
-    "static/js/2.5b2428e6.chunk.js",
+    "static/js/runtime-main.6c7d74fc.js",
+    "static/js/2.45ef627c.chunk.js",
     "static/css/main.10faef7c.chunk.css",
-    "static/js/main.0cdda14b.chunk.js"
+    "static/js/main.6cd3723e.chunk.js"
   ]
 }
