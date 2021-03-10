@@ -2,10 +2,10 @@ body {
   margin: 0;
   font-family: 'Chivo',
     sans-serif;
+  color: #ffffff;
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
 
 }
 

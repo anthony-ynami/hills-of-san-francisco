@@ -93,14 +93,6 @@ const Project = () => {
             <div className="project-text">
                 <h1>Select a Hill Below</h1>
             </div>
-            <select name="hill-names" id="hill-select" defaultValue={'0'} onChange={handleHill}>
-                <option value="0">Select a Hill Below</option>
-                <option value="18">Lombard Street</option>
-                <option value="31.5">Filbert Street</option>
-                <option value="21.3">Hyde Street</option>
-                <option value="22.2">Mason Street</option>
-                <option value="41">Bradford Street</option>
-            </select>
 
             <div className="building-wrap">
                 <div className="building uno tall">
@@ -130,6 +122,15 @@ const Project = () => {
 
             </div>
             <div id="hill"></div>
+            <select name="hill-names" id="hill-select" defaultValue={'0'} onChange={handleHill}>
+                <option value="0">Select a Hill Below</option>
+                <option value="18">Lombard Street</option>
+                <option value="31.5">Filbert Street</option>
+                <option value="21.3">Hyde Street</option>
+                <option value="22.2">Mason Street</option>
+                <option value="41">Bradford Street</option>
+            </select>
+
         </div>
 
     );
